@@ -20,6 +20,7 @@
         <String xml:lang="vi-VN">Cửa hàng</String>
         <String xml:lang="id-ID">Toko</String>
         <String xml:lang="hi-Latn">Dukaan</String>
+        <String xml:lang="de-DK">Butik</String>
     </Entry>
 
     <Entry Id="menu_store_subtitle">
@@ -33,6 +34,7 @@
         <String xml:lang="hi-Latn">Ek item select kare</String>
         <String xml:lang="de-DE">Wähle einen Gegenstand aus</String>
         <String xml:lang="id-ID">Pilih barang</String>
+        <String xml:lang="de-DK">Vælg en varer</String>
     </Entry>
 
     <!-- ========================= -->
@@ -54,6 +56,7 @@
         <String xml:lang="vi-VN">Đổi thẻ quà tặng</String>
         <String xml:lang="id-ID">Tukarkan kartu hadiah</String>
         <String xml:lang="hi-Latn">Redeem kare gift Cards</String>
+        <String xml:lang="de-DK">Aktiver et gavekort</String>
     </Entry>
 
     <!-- {0} = Current balance -->
@@ -68,6 +71,7 @@
         <String xml:lang="hi-Latn">GIFT CARD: {0}</String>
         <String xml:lang="de-DE">GESCHENKKARTE: {0}</String>
         <String xml:lang="id-ID">Kartu Hadiah: {0}</String>
+        <String xml:lang="de-DK">GAVE KORT: {0}</String>
     </Entry>
 
     <!-- ========================= -->
@@ -85,6 +89,7 @@
         <String xml:lang="hi-Latn">No items :(</String>
         <String xml:lang="de-DE">Keine Gegenstände :(</String>
         <String xml:lang="id-ID">Tidak ada barang :(</String>
+        <String xml:lang="de-DK">Ingen varer</String>
     </Entry>
 
     <Entry Id="menu_store_no_items_desc">
@@ -98,6 +103,7 @@
         <String xml:lang="hi-Latn">Iss business me sale ke liye koi samaan nahi hai.</String>
         <String xml:lang="de-DE">Dieses Geschäft hat keine Waren oder Dienstleistungen im Angebot.</String>
         <String xml:lang="id-ID">Bisnis ini tidak memiliki barang atau jasa untuk dijual</String>
+        <String xml:lang="de-DK">Denne butik har ikke nogle varer eller tjenester til salg</String>
     </Entry>
 
     <!-- ========================= -->
@@ -114,6 +120,7 @@
         <String xml:lang="hi-Latn">Purchase</String>
         <String xml:lang="de-DE">Kaufen</String>
         <String xml:lang="id-ID">Beli</String>
+        <String xml:lang="de-DK">Køb</String>
     </Entry>
 
     <Entry Id="menu_store_btn_browse">
@@ -127,6 +134,7 @@
         <String xml:lang="hi-Latn">Browse</String>
         <String xml:lang="de-DE">Durchsuchen</String>
         <String xml:lang="id-ID">Jelajahi</String>
+        <String xml:lang="de-DK">Søg</String>
     </Entry>
 
     <Entry Id="menu_store_btn_steal">
@@ -140,6 +148,7 @@
         <String xml:lang="hi-Latn">Steal</String>
         <String xml:lang="de-DE">Stehlen</String>
         <String xml:lang="id-ID">Mencuri</String>
+        <String xml:lang="de-DK">Stjæl</String>
     </Entry>
 
     <!-- ========================= -->
@@ -157,6 +166,7 @@
         <String xml:lang="hi-Latn">Owned</String>
         <String xml:lang="de-DE">Im Besitz</String>
         <String xml:lang="id-ID">Sudah memiliki</String>
+        <String xml:lang="de-DK">Ejet</String>
     </Entry>
 
     <!-- Shows up in red in the description of illegal items -->
@@ -171,6 +181,7 @@
         <String xml:lang="hi-Latn">ILLEGAL</String>
         <String xml:lang="de-DE">ILLEGAL</String>
         <String xml:lang="id-ID">ilegal</String>
+        <String xml:lang="de-DK">ULOVLIGT</String>
     </Entry>
 
     <!-- Shows up in yellow for newly added items -->
@@ -185,6 +196,7 @@
         <String xml:lang="hi-Latn">NEW!</String>
         <String xml:lang="de-DE">NEU!</String>
         <String xml:lang="id-ID">Baru!</String>
+        <String xml:lang="de-DK">NY!</String>
     </Entry>
 
     <!-- Shows up in red for items that are expiring soon -->
@@ -199,6 +211,7 @@
         <String xml:lang="hi-Latn">LIMITED!</String>
         <String xml:lang="de-DE">LIMITIERT!</String>
         <String xml:lang="id-ID">Terbatas!</String>
+        <String xml:lang="de-DK">BEGRÆNSET!</String>
     </Entry>
 
     <!-- Shows up in yellow in the description of uncommon items -->
@@ -209,6 +222,7 @@
         <String xml:lang="de-DE">UNGEWÖHNLICH</String>
         <String xml:lang="it-IT">NON COMUNE</String>
         <String xml:lang="id-ID">TIDAK UMUM</String>
+        <String xml:lang="de-DK">UALMINDELIG</String>
     </Entry>
 
     <!-- Shows up in purple in the description of rare items -->
@@ -219,6 +233,7 @@
         <String xml:lang="de-DE">SELTEN</String>
         <String xml:lang="it-IT">RARO</String>
         <String xml:lang="id-ID">LANGKA</String>
+        <String xml:lang="de-DK">SJÆLDENT</String>
     </Entry>
 
     <!-- Shows up in purple in the description of very rare items -->
@@ -229,6 +244,7 @@
         <String xml:lang="de-DE">SEHR SELTEN</String>
         <String xml:lang="it-IT">MOLTO RARO</String>
         <String xml:lang="id-ID">SANGAT LANGKA</String>
+        <String xml:lang="de-DK">MEGET SJÆLDENT</String>
     </Entry>
 
     <!-- Shows up in blue in the description of legendary items -->
@@ -239,6 +255,7 @@
         <String xml:lang="de-DE">LEGENDÄR</String>
         <String xml:lang="it-IT">LEGGENDARIO</String>
         <String xml:lang="id-ID">LEGENDARIS</String>
+        <String xml:lang="de-DK">LEGENDARISK</String>
     </Entry>
 
     <!-- Shows up in orange in the description of unique items -->
@@ -249,6 +266,7 @@
         <String xml:lang="de-DE">EINZIGARTIG</String>
         <String xml:lang="it-IT">UNICO</String>
         <String xml:lang="id-ID">UNIK</String>
+        <String xml:lang="de-DK">UNIK</String>
     </Entry>
 
     <!-- {0} = Date -->
@@ -263,6 +281,7 @@
         <String xml:lang="hi-Latn">~r~Limited time offer: ~s~available hai ~r~{0} ~s~tak.</String>
         <String xml:lang="de-DE">~r~Zeitlich begrenztes Angebot: ~s~verfügbar bist zum ~r~{0}~s~.</String>
         <String xml:lang="id-ID">~r~Penawaran terbatas: ~s~Tersedia hingga ~r~{0}~s~.</String>
+        <String xml:lang="de-DK">~r~Tilbud med begrænset tid: ~s~tilgængelig indtil ~r~{0}~s~.</String>
     </Entry>
 
     <!-- Shows up for items who require a certain minimum level -->
@@ -278,6 +297,7 @@
         <String xml:lang="hi-Latn">Is level par unlock hoga {0}</String>
         <String xml:lang="de-DE">Freigeschalten ab Level {0}</String>
         <String xml:lang="id-ID">Terbuka pada level {0}</String>
+        <String xml:lang="de-DK">Lås op ved level {0}</String>
     </Entry>
 
     <!-- Shows up for items who require a membership -->
@@ -294,6 +314,7 @@
         <String xml:lang="hi-Latn">Zarurat hai {0}~n~ ~s~ki, purchase kare ~b~{1}</String>
         <String xml:lang="de-DE">Erfordert {0}~n~~s~Kaufe auf ~b~{1}</String>
         <String xml:lang="id-ID">Membutuhkan {0}~n~~s~Dapat dibeli di ~b~{1}</String>
+        <String xml:lang="de-DK">Kræver {0}~n~~s~køb ved ~b~{1}</String>
     </Entry>
 
     <!-- Shows up for items who require a membership, and you have that membership tier or higher -->
@@ -309,6 +330,7 @@
         <String xml:lang="hi-Latn">Unlocked hai aapke {0}</String>
         <String xml:lang="de-DE">Freigeschalten mit deiner {0}</String>
         <String xml:lang="id-ID">Terbuka dengan {0}</String>
+        <String xml:lang="de-DK">Låst op med dit {0}</String>
     </Entry>
 
     <!-- Shows up after the previous string when you have a tier higher than the required one (e.g. you have Gold and the item is Silver) -->
@@ -324,6 +346,7 @@
         <String xml:lang="hi-Latn">(Zarurat hai {0})</String>
         <String xml:lang="de-DE">(erfordert {0})</String>
         <String xml:lang="id-ID">(membutuhkan {0})</String>
+        <String xml:lang="de-DK">(Kræver {0})</String>
     </Entry>
 
     <Entry Id="item_attribute_unlocked_with_membership_reminder">
@@ -333,6 +356,7 @@
         <String xml:lang="it-IT">~y~Promemoria: ~s~mantieni attivo il tuo abbonamento per continuare a utilizzare questo oggetto.</String>
         <String xml:lang="id-ID">~y~Pengingat: ~s~Harap terus berlangganan agar dapat terus menggunakan item ini.</String>
         <String xml:lang="fr-FR">~y~Rappel: ~s~garde ton abonnement actif pour continuer à utiliser cet objet.</String>
+        <String xml:lang="de-DK">~y~Påmindelse: ~s~Hold dit abonnement aktivt for at fortsætte bruget af denne genstand.</String>
     </Entry>
 
     <!-- ========================= -->
@@ -353,6 +377,7 @@
         <String xml:lang="tr-TR">Burada ~r~mağaza hırsızlığı ~s~yaparken yakalandınız. ~y~{0}~s~ Sonra tekrar gel.</String>
         <String xml:lang="hi-Latn">Aap pakde gaye hain ~r~dukan se chori ~s~karte hue. Wapas aaiega is waqt ke baad ~y~{0}~s~.</String>
         <String xml:lang="id-ID">Kamu sudah pernah tertangkap ~r~mencuri barang toko ~s~disini. Kembali lagi dalam ~y~{0}~s~.</String>
+        <String xml:lang="de-DK">Du er blevet fanget i ~r~butiktyveri ~s~her. Kom tilbage i ~y~{0}~s~.</String>
     </Entry>
 
     <Entry Id="menu_store_shoplifting_cooldown_simple">
@@ -363,6 +388,7 @@
         <String xml:lang="de-DE">Warte, bevor du erneut probierst, den Laden erneut ~r~auszurauben~s~.</String>
         <String xml:lang="it-IT">Attendi prima di tentare nuovamente un ~r~furto ~s~nel negozio.</String>
         <String xml:lang="id-ID">harap tunggu sebelum mencoba untuk ~r~mencuri barang toko~s~ lagi</String>
+        <String xml:lang="de-DK">Vent med at forsøge ~r~butiktyveri ~s~igen.</String>
     </Entry>
 
     <Entry Id="menu_store_bounty">
@@ -378,6 +404,7 @@
         <String xml:lang="tr-TR">Başınızda ~r~ödül~s~ varken silah mağazasında alışveriş yapamazsınız.</String>
         <String xml:lang="hi-Latn">Aap gun stores se kharidaari nahi kar sakte jab aap pe ~r~bounty ~s~lagi ho.</String>
         <String xml:lang="id-ID">Kamu tidak bisa berbelanja di toko senjata ketika memiliki ~r~bounty~s~.</String>
+        <String xml:lang="de-DK">Du kan ikke handle ved en våbenbutik når du har en ~r~dusør~s~.</String>
         
     </Entry>
 
@@ -394,6 +421,7 @@
         <String xml:lang="tr-TR">~b~Görev başında ~s~bu mağazadan alışveriş yapmazsınız.</String>
         <String xml:lang="hi-Latn">Jab aap ~b~ON-Duty ~s~toh aap is store pe kharidaari nahi kar sakte.</String>
         <String xml:lang="id-ID">Kamu tidak dapat belanja ditoko ini ketika sedang ~b~bertugas~s~.</String>
+        <String xml:lang="de-DK">Du kan ikke handle ved denne butik når du er ~b~op arbejde~s~.</String>
     </Entry>
 
     <Entry Id="menu_store_cops_only">
@@ -409,6 +437,7 @@
         <String xml:lang="tr-TR">Sadece ~b~polis memurları ~s~bu mağazadan alışveriş yapabilir.</String>
         <String xml:lang="hi-Latn">Sirf ~b~police officers ~s~is dukaan pe kharidaari kar sakte hain.</String>
         <String xml:lang="id-ID">Hanya ~b~Petugas kepolisian ~s~yang dapat belanja ditoko ini.</String>
+        <String xml:lang="de-DK">Kun ~b~politi betjente ~s~kan handle i denne butik.</String>
         
     </Entry>
 
@@ -421,6 +450,7 @@
         <String xml:lang="de-DE">Du musst mindestens ~b~Level {0}~s~, oder höher sein, um diesen ~r~Laden~s~ zu nutzen.</String>
         <String xml:lang="it-IT">Devi essere un ricercato di ~b~livello {0} ~s~o superiore per utilizzare questo ~r~negozio~s~.</String>
         <String xml:lang="id-ID">Kamu harus di ~b~level {0} ~s~atau diatasnya untuk dapat menggunakan ~r~toko~s~ ini.</String>
+        <String xml:lang="de-DK">Du skal være ~b~level {0} ~s~eller over for at købe i denne ~r~butik~s~.</String>
     </Entry>
 
     <!-- ========================= -->
@@ -438,7 +468,7 @@
         <String xml:lang="hi-Latn">Aap aur nahi ~r~kareed ~s~sakte ~y~{0}~s~.</String>
         <String xml:lang="de-DE">Du kannst nicht mehr von ~y~{0}~s~ ~r~kaufen~s~.</String>
         <String xml:lang="id-ID">Kamu tidak bisa ~r~membeli ~s~lebih banyak ~y~{0}~s~.</String>
-
+        <String xml:lang="de-DK">Du kan ikke ~r~købe ~s~flere ~y~{0}~s~.</String>
     </Entry>
 
     <Entry Id="menu_store_no_gun_for_ammo_type">
@@ -452,6 +482,7 @@
         <String xml:lang="hi-Latn">Aapke paas koi gun nahi hai jo iss type ka ammo use kare.</String>
         <String xml:lang="de-DE">Du hast keine Waffe, welche diesen Munitionstyp verwendet.</String>
         <String xml:lang="id-ID">Kamu tidak punya senjata dengan tipe peluru ini</String>
+        <String xml:lang="de-DK">Du har ikke et våben som bruge denne type ammonition</String>
     </Entry>
 
     <Entry Id="already_own_weapon">
@@ -467,6 +498,7 @@
         <String xml:lang="tr-TR">~r~Bu silaha zaten sahipsin!</String>
         <String xml:lang="hi-Latn">~r~Ye weapon aapke paas pehle se hi hai.</String>
         <String xml:lang="id-ID">~r~Kamu sudah memiliki senjata ini!</String>
+        <String xml:lang="de-DK">~r~Du ejer allerede dette våben!</String>
     </Entry>
 
     <Entry Id="already_own_attachment">
@@ -482,6 +514,7 @@
         <String xml:lang="tr-TR">~r~Bu eklentiye zaten sahipsin!</String>
         <String xml:lang="hi-Latn">~r~Ye attachment aapke paas pehle se hi hai.</String>
         <String xml:lang="id-ID">~r~Kamu sudah memiliki perlengkapan ini!</String>
+        <String xml:lang="de-DK">~r~Du ejer allerede denne dette tilbehør!</String>
     </Entry>
 
     <!-- {0} = Weapon Attachment -->
@@ -496,6 +529,7 @@
         <String xml:lang="hi-Latn">Agar aap ye attachment khareed te hain, toh aap apka purana ~y~{0} ~s~hat jayega us weapon ka. Proceed karna chahte hain?</String>
         <String xml:lang="de-DE">Wenn du diese Erweiterung kaufst, verlierst du ~y~{0} ~s~an dieser Waffe. Möchtest du fortfahren?</String>
         <String xml:lang="id-ID">Jika kamu membeli perlengkapan ini kamu akan kehilangan ~y~{0} ~s~yang terpasang di senjata ini. Apakah kamu ingin melanjutkan?</String>
+        <String xml:lang="de-DK">Hvis du køber dette tilbehør, så mister du ~y~{0} ~s~på dette våben. Vil du fortsætte?</String>
     </Entry>
 
     <!-- ========================= -->
@@ -516,6 +550,7 @@
         <String xml:lang="hi-Latn">{0} for {1}</String>
         <String xml:lang="de-DE">{0} für {1}</String>
         <String xml:lang="id-ID">{0} diharga {1}</String>
+        <String xml:lang="de-DK">{0} for</String>
     </Entry>
 
     <!-- Displays the unit price in the description -->
@@ -533,6 +568,7 @@
         <String xml:lang="hi-Latn">Price: {0}/{1}</String>
         <String xml:lang="de-DE">Preis: {0}/{1}</String>
         <String xml:lang="id-ID">{0} diharga {1}</String>
+        <String xml:lang="de-DK">Pris: {0}/{1}</String>
     </Entry>
 
     <!-- Example: You purchased a ~p~Standard Armor ~s~for ~r~$2500. -->
@@ -548,6 +584,7 @@
         <String xml:lang="de-DE">Du hast {0} ~p~{1} ~s~f+r ~r~{2}~s~ gekauft.~r~</String>
         <String xml:lang="it-IT">Hai acquistato {0} ~p~{1} ~s~per ~r~{2}.</String>
         <String xml:lang="id-ID">Kamu telah membeli {0} ~p~{1} ~s~diharga ~r~{2}.</String>
+        <String xml:lang="de-DK">Du har købt {0} ~p~{1} ~s~for ~r~{2}.</String>
     </Entry>
 
     <!-- Example: You purchased a ~p~Standard Armor ~s~for ~r~$2000 ~s~in gift card balance and ~r~$500 ~s~in cash. -->
